@@ -15,3 +15,5 @@ def main():
                 run = False
 
     pygame.quit()
+
+main()
